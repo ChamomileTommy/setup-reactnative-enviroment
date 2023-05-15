@@ -31,7 +31,7 @@ access : https://www.airdroid.com/ja/download/airdroid-cast/
 
 ![My Image](./picture/synchronized.png)
 
-### Run project and scan QR code
+### Run project,scan QR code and click "go to expo go"
 
 ```
 npm install -g expo-cli
