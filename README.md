@@ -9,6 +9,7 @@ Show how to setup reactnative enviroment
 ```
 access : https://www.airdroid.com/ja/download/airdroid-cast/
 ```
+
 ![My Image](./picture/airdroidWindows.png)
 
 ### Install airdroid-cast and expo-go for Mobile
@@ -31,21 +32,25 @@ access : https://www.airdroid.com/ja/download/airdroid-cast/
 
 ![My Image](./picture/synchronized.png)
 
-### Run project,scan QR code and click "go to expo go"
+###Run this command if expo-cli has not been installed
 
 ```
 npm install -g expo-cli
+```
+
+### Run project,scan QR code and click "go to expo go"
+
+```
 expo-cli start --tunnel
 ```
 
 ![My Image](./picture/runandscan.png)
 
-### Dont forget 
+### Dont forget
 
 ```
 Desktop, Mobile in Same Wifi
 ```
-
 
 ## Result
 
