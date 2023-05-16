@@ -32,7 +32,7 @@ access : https://www.airdroid.com/ja/download/airdroid-cast/
 
 ![My Image](./picture/synchronized.png)
 
-###Run this command if expo-cli has not been installed
+### Run this command if expo-cli has not been installed
 
 ```
 npm install -g expo-cli
